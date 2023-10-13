@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gerador_De_Pessoas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dbed5a1-0dcc-4d4d-b509-8696f8a155c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1085b194-1443-4136-87c6-d65643035729</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('012_Gerador de Pessoas/002_Campo de Nome da pessoa')</defaultValue>
+      <description></description>
+      <id>1085b194-1443-4136-87c6-d65643035729</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
